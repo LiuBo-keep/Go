@@ -23,5 +23,6 @@
 ##### 17.尽量使用行注释
 ##### 18.Golang官网：https://golang.org/#
 ##### 19.Golang官方标准库API文档：https://golang.org/pkg
-##### 20.在golang中不管是声明的变量或引入法包必须使用，不然编译报错
-##### 21.在golang中函数外部定义的变量就是全局变量      
+##### 20.Golang中文网:https://studygolang.con/pkgdoc
+##### 21.在golang中不管是声明的变量或引入法包必须使用，不然编译报错
+##### 22.在golang中函数外部定义的变量就是全局变量      
