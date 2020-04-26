@@ -1,5 +1,5 @@
 //要求输出一个helloworld
-package main
+package demo1
 
 import "fmt"
 
