@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8adac93d-078d-482e-ae6b-a7b02d9215e2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/go_code/project01/main/demo2/mian.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_code/project01/main/demo3/mian.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/go_code/project01/main/demo4/mian.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dis.md" beforeDir="false" afterPath="$PROJECT_DIR$/dis.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/project01/main/hello.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/project01/main/demo1/hello.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/go_code/project01/main/demo4/mian.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/project01/main/demo4/mian.go" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +18,8 @@
         <entry file="file://$PROJECT_DIR$/dis.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="572">
-                <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+              <first_editor relative-caret-position="585">
+                <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -32,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/go_code/project01/main/demo4/mian.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+            <state relative-caret-position="132">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -59,9 +56,9 @@
         <option value="$PROJECT_DIR$/src/go_code/project01/package/da.go" />
         <option value="$PROJECT_DIR$/src/go_code/project01/main/hello.go" />
         <option value="$PROJECT_DIR$/src/go_code/project01/main/demo2/mian.go" />
-        <option value="$PROJECT_DIR$/dis.md" />
         <option value="$PROJECT_DIR$/src/go_code/project01/main/demo3/mian.go" />
         <option value="$PROJECT_DIR$/src/go_code/project01/main/demo4/mian.go" />
+        <option value="$PROJECT_DIR$/dis.md" />
       </list>
     </option>
   </component>
@@ -110,15 +107,6 @@
               <item name="project01" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="demo1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="demo1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="go_code" type="462c0819:PsiDirectoryNode" />
-              <item name="project01" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="demo4" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -159,10 +147,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25670242" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.18230563" />
+      <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" weight="0.1802949" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -223,8 +210,8 @@
     <entry file="file://$PROJECT_DIR$/dis.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="572">
-            <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+          <first_editor relative-caret-position="585">
+            <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="30" selection-end-column="3" />
           </first_editor>
           <second_editor />
         </state>
@@ -232,8 +219,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/go_code/project01/main/demo4/mian.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        <state relative-caret-position="132">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>

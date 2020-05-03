@@ -25,4 +25,12 @@
 ##### 19.Golang官方标准库API文档：https://golang.org/pkg
 ##### 20.Golang中文网:https://studygolang.con/pkgdoc
 ##### 21.在golang中不管是声明的变量或引入法包必须使用，不然编译报错
-##### 22.在golang中函数外部定义的变量就是全局变量      
+##### 22.在golang中函数外部定义的变量就是全局变量  
+##### 23.程序中+号的使用
+   1.当两边都是数值，则是加法运算
+   
+   2.当两边都是字符串，则是字符串拼接
+##### 24.变量的数据类型   
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20200426235752584.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQzMDcyMzk5,size_16,color_FFFFFF,t_70)
+
+    
