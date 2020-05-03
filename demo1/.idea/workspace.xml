@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8adac93d-078d-482e-ae6b-a7b02d9215e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dis.md" beforeDir="false" afterPath="$PROJECT_DIR$/dis.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/go_code/project01/main/demo4/mian.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/go_code/project01/main/demo4/mian.go" afterDir="false" />
-    </list>
+    <list default="true" id="8adac93d-078d-482e-ae6b-a7b02d9215e2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/go_code/project01/main/demo4/mian.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            <state relative-caret-position="264">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -147,6 +143,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49865952" visible="true" weight="0.18230563" />
       <window_info id="Structure" order="1" sideWeight="0.5013405" side_tool="true" weight="0.1802949" />
@@ -219,8 +216,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/go_code/project01/main/demo4/mian.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        <state relative-caret-position="264">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
         </state>
       </provider>
     </entry>
